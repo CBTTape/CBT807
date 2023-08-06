@@ -1,0 +1,43 @@
+2023-08-06 07:42:08.702936 - Initialized conversion of CBT807
+2023-08-06 07:42:09.122523 - Received CBT.V505.FILE807.PDS from FILE807.XMI 
+2023-08-06 07:42:09.125072 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:42:09.126057 - Found $$$CPYRT.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$$$CPYRT
+2023-08-06 07:42:09.127178 - Found $$DOCNTE.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$$DOCNTE
+2023-08-06 07:42:09.345711 - Found $$DOCS.xmi (application/xmit) in CBT.V505.FILE807.PDS
+2023-08-06 07:42:09.355435   - Received to CBT807/FILE807.DOCS
+2023-08-06 07:42:09.356382 - Found $HFSISPM.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$HFSISPM
+2023-08-06 07:42:09.357349 - Found $HFSISPP.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$HFSISPP
+2023-08-06 07:42:09.358192 - Found $INSTALL.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$INSTALL
+2023-08-06 07:42:09.359082 - Found $INTRO.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$INTRO
+2023-08-06 07:42:09.359911 - Found $PDSLOA$.jcl (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$PDSLOA$
+2023-08-06 07:42:09.360903 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$PDSLOAD
+2023-08-06 07:42:09.361809 - Found $README.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$README
+2023-08-06 07:42:09.362843 - Found $SPRISPP.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/$SPRISPP
+2023-08-06 07:42:09.363896 - Found @FILE807.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/@FILE807
+2023-08-06 07:42:09.364840 - Found ASMALL.jcl (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/ASMALL
+2023-08-06 07:42:09.365856 - Found ASMHCL.jcl (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/ASMHCL
+2023-08-06 07:42:09.366762 - Found ASMSBG.jcl (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/ASMSBG
+2023-08-06 07:42:09.367641 - Found ASMSLC.jcl (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/ASMSLC
+2023-08-06 07:42:09.368777 - Found FILSPACE.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/FILSPACE
+2023-08-06 07:42:09.370081 - Found HFSELECT.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/HFSELECT
+2023-08-06 07:42:09.370971 - Found HFSELMSG.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/HFSELMSG
+2023-08-06 07:42:09.371782 - Found IEBGENER.jcl (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/IEBGENER
+2023-08-06 07:42:09.372613 - Found INCLUDE.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/INCLUDE
+2023-08-06 07:42:09.373503 - Found MACRO.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/MACRO
+2023-08-06 07:42:09.374356 - Found MKMESSAG.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/MKMESSAG
+2023-08-06 07:42:09.374366 - Found MK11.bin containing application/octet-stream, moved to PDS/MK11
+2023-08-06 07:42:09.380837 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE807.PDS
+2023-08-06 07:42:09.387906   - Received RECFM=U data, stored XMIT file as CBT807/PDSLOAD.xmi
+2023-08-06 07:42:09.388812 - Found READEXCP.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/READEXCP
+2023-08-06 07:42:09.389882 - Found READVTC.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/READVTC
+2023-08-06 07:42:09.390760 - Found SCAN4HIT.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/SCAN4HIT
+2023-08-06 07:42:09.391579 - Found SUPRDMSG.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/SUPRDMSG
+2023-08-06 07:42:09.392443 - Found SUPRDUMP.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/SUPRDUMP
+2023-08-06 07:42:09.393334 - Found SYNADERR.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/SYNADERR
+2023-08-06 07:42:09.393343 - Found TEST.bin containing application/octet-stream, moved to PDS/TEST
+2023-08-06 07:42:09.395355 - Found TESTMAC.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/TESTMAC
+2023-08-06 07:42:09.396376 - Found TESTPGM.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/TESTPGM
+2023-08-06 07:42:09.397300 - Found TESTPGM2.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/TESTPGM2
+2023-08-06 07:42:09.398298 - Found TESTXIT.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/TESTXIT
+2023-08-06 07:42:09.399143 - Found TESTXITC.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/TESTXITC
+2023-08-06 07:42:09.399965 - Found VOL2DEVT.txt (text/plain) in CBT.V505.FILE807.PDS, moved to PDS/VOL2DEVT
